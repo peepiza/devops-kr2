@@ -1,3 +1,4 @@
+# KR2: Ларичева
 import os
 import socket
 
